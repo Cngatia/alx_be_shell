@@ -1,2 +1,2 @@
-#1/bin/bash
-4-empty
+#!1/bin/bash
+hello
